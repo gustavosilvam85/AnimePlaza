@@ -1,6 +1,6 @@
 # AnimePlaza
 
-Voce pode ver esse projeto em anime-plaza.vercel.app/
+Voce pode ver esse projeto em [anime-plaza.vercel.app/](https://anime-plaza.vercel.app/)
 
 ## Project setup
 ```
